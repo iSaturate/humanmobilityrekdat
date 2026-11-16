@@ -1,0 +1,18 @@
+{
+  "days_joined": 151,
+  "presence_rows": 230418,
+  "weekday_daytime_share_pct": 50.45331279774589,
+  "weekend_daytime_share_pct": 48.83798015582636,
+  "weekday_peak_hour": 12,
+  "weekend_peak_hour": 18,
+  "min_complete_kapanewon_per_day": 6,
+  "max_complete_kapanewon_per_day": 68,
+  "strongest_7day_correlation": {
+    "window": "all_valid",
+    "category": "Transit stations",
+    "method": "7day_difference",
+    "n_pairs": 128,
+    "pearson_r": -0.39262525748650384
+  },
+  "fixed_panel_units": 4
+}

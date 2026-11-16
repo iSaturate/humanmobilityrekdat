@@ -1,0 +1,37 @@
+window,category,method,n_pairs,pearson_r
+all_valid,Retail & recreation,raw,150,0.14730948559832902
+all_valid,Retail & recreation,weekday_regime_adjusted,150,-0.26756087693900105
+all_valid,Retail & recreation,7day_difference,128,-0.2686767020395848
+all_valid,Grocery & pharmacy,raw,150,0.04805132691034664
+all_valid,Grocery & pharmacy,weekday_regime_adjusted,150,-0.17563933207638327
+all_valid,Grocery & pharmacy,7day_difference,128,-0.21395988023162094
+all_valid,Parks,raw,150,-0.05953237536479357
+all_valid,Parks,weekday_regime_adjusted,150,-0.2766153166333811
+all_valid,Parks,7day_difference,128,-0.2756588777126764
+all_valid,Transit stations,raw,150,-0.009417473796134035
+all_valid,Transit stations,weekday_regime_adjusted,150,-0.36154479327639893
+all_valid,Transit stations,7day_difference,128,-0.39262525748650384
+all_valid,Workplaces,raw,150,-0.22053178594939743
+all_valid,Workplaces,weekday_regime_adjusted,150,0.014710809160846714
+all_valid,Workplaces,7day_difference,128,0.0987626088103704
+all_valid,Residential,raw,150,-0.46477150522264893
+all_valid,Residential,weekday_regime_adjusted,150,0.04646920170471971
+all_valid,Residential,7day_difference,128,0.1450298525903273
+before_feb16,Retail & recreation,raw,77,0.00655455339620952
+before_feb16,Retail & recreation,weekday_regime_adjusted,77,-0.22599882749067474
+before_feb16,Retail & recreation,7day_difference,63,-0.2761867123344567
+before_feb16,Grocery & pharmacy,raw,77,-0.130396530836438
+before_feb16,Grocery & pharmacy,weekday_regime_adjusted,77,-0.3041433003984998
+before_feb16,Grocery & pharmacy,7day_difference,63,-0.3501032052789442
+before_feb16,Parks,raw,77,-0.1084086156330545
+before_feb16,Parks,weekday_regime_adjusted,77,-0.18524028317112654
+before_feb16,Parks,7day_difference,63,-0.285172756362302
+before_feb16,Transit stations,raw,77,-0.07589006780726451
+before_feb16,Transit stations,weekday_regime_adjusted,77,-0.15474778527757044
+before_feb16,Transit stations,7day_difference,63,-0.2317787176318879
+before_feb16,Workplaces,raw,77,0.009254506518787675
+before_feb16,Workplaces,weekday_regime_adjusted,77,0.26183458003669663
+before_feb16,Workplaces,7day_difference,63,0.27548330293306855
+before_feb16,Residential,raw,77,-0.040704804537226115
+before_feb16,Residential,weekday_regime_adjusted,77,-0.03316734078993792
+before_feb16,Residential,7day_difference,63,-0.12125610487808716

@@ -1,0 +1,57 @@
+{
+  "period": {
+    "start": "2021-12-01",
+    "end": "2022-04-30",
+    "days": 151
+  },
+  "presence": {
+    "input_rows": 230418,
+    "exact_duplicates_removed": 0,
+    "outside_period_rows": 0,
+    "output_rows": 230418,
+    "kapanewon": 78,
+    "dates": 151,
+    "minimum_daily_coverage_pct": 40.491452991452995,
+    "complete_unit_days": 5794,
+    "unpublished_unit_days": 327
+  },
+  "google": {
+    "input_rows": 653,
+    "exact_duplicates_removed": 0,
+    "all_indonesia_input_rows": 22855,
+    "other_region_or_level_rows_excluded": 22202,
+    "outside_period_rows": 502,
+    "output_rows": 151,
+    "missing_by_column": {
+      "date": 0,
+      "google_retail_and_recreation_pct": 0,
+      "google_grocery_and_pharmacy_pct": 0,
+      "google_parks_pct": 0,
+      "google_transit_stations_pct": 0,
+      "google_workplaces_pct": 0,
+      "google_residential_pct": 0
+    }
+  },
+  "od": {
+    "input_rows": 9894,
+    "exact_duplicates_removed": 0,
+    "output_rows": 9894,
+    "missing_denominators": 0,
+    "origins": {
+      "input_rows": 390,
+      "exact_duplicates_removed": 0
+    }
+  },
+  "integration": {
+    "rows": 151,
+    "unmatched_dates": 0,
+    "grain": "one row per DIY province calendar day (WIB)"
+  },
+  "notes": [
+    "Missing/suppressed presence is never zero-filled.",
+    "Presence sums are device-location-hour units, not unique daily devices or trips.",
+    "Daytime share and hourly profiles use only complete 24h kapanewon-days; composition can still change.",
+    "Google metrics retain their original weekday-specific Jan 3-Feb 6 2020 baseline; no interpolation.",
+    "Sample breaks Jan 1 and Feb 16; anomaly Mar 8; March-April OD reduced quality."
+  ]
+}

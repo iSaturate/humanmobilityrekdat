@@ -1,0 +1,37 @@
+window,category,method,n_pairs,pearson_r
+all_valid,Retail & recreation,raw,150,0.10855211132866618
+all_valid,Retail & recreation,weekday_regime_adjusted,150,-0.26953206782635847
+all_valid,Retail & recreation,7day_difference,128,-0.30147729633074466
+all_valid,Grocery & pharmacy,raw,150,0.02657071774080216
+all_valid,Grocery & pharmacy,weekday_regime_adjusted,150,-0.15587348186415623
+all_valid,Grocery & pharmacy,7day_difference,128,-0.3013948091908557
+all_valid,Parks,raw,150,-0.1195861186441891
+all_valid,Parks,weekday_regime_adjusted,150,-0.33156566944416044
+all_valid,Parks,7day_difference,128,-0.2937725857968557
+all_valid,Transit stations,raw,150,0.01187764494826554
+all_valid,Transit stations,weekday_regime_adjusted,150,-0.28349900757937974
+all_valid,Transit stations,7day_difference,128,-0.39482849544056214
+all_valid,Workplaces,raw,150,-0.09480585727263086
+all_valid,Workplaces,weekday_regime_adjusted,150,0.14520816888964055
+all_valid,Workplaces,7day_difference,128,0.15430677490513078
+all_valid,Residential,raw,150,-0.39451086451121076
+all_valid,Residential,weekday_regime_adjusted,150,0.21169058551510345
+all_valid,Residential,7day_difference,128,0.1613376501435782
+before_feb16,Retail & recreation,raw,77,0.08920097778784242
+before_feb16,Retail & recreation,weekday_regime_adjusted,77,0.02516818688483526
+before_feb16,Retail & recreation,7day_difference,63,-0.02322543871365226
+before_feb16,Grocery & pharmacy,raw,77,-0.015519738884636754
+before_feb16,Grocery & pharmacy,weekday_regime_adjusted,77,-0.05071413565651834
+before_feb16,Grocery & pharmacy,7day_difference,63,-0.11699291190386117
+before_feb16,Parks,raw,77,0.055966256769901794
+before_feb16,Parks,weekday_regime_adjusted,77,0.04516691544026416
+before_feb16,Parks,7day_difference,63,-0.08066316025317839
+before_feb16,Transit stations,raw,77,-0.03546478607635959
+before_feb16,Transit stations,weekday_regime_adjusted,77,-0.0005517574229512894
+before_feb16,Transit stations,7day_difference,63,0.003560334651899258
+before_feb16,Workplaces,raw,77,0.0587435327261159
+before_feb16,Workplaces,weekday_regime_adjusted,77,0.16996601294428618
+before_feb16,Workplaces,7day_difference,63,0.189073363509631
+before_feb16,Residential,raw,77,0.04135772216475553
+before_feb16,Residential,weekday_regime_adjusted,77,0.027456511331733255
+before_feb16,Residential,7day_difference,63,-0.10705994260874363
